@@ -1,0 +1,18 @@
+{
+    "total" : 4,
+    "negTotal" : 3,
+    "cmd": 
+    {
+        "0" : "$yourock",
+        "1" : "$youdabest",
+        "2" : "$sexy",
+        "3" : "$loveyou"
+    },
+    "negCmd":
+    {
+        "0" : "$kys",
+        "1" : "$yousuck",
+        "2" : "$youareboring" 
+    }
+
+}
